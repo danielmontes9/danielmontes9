@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer">Daniel</a></b>.
-    <br>I'm a Computer Engineering Student from UPIICSA.<br>
+    <br>I'm a Computer Engineering Student at UPIICSA.<br>
 
 </samp>
 
